@@ -18,4 +18,4 @@ jobs:
       - name: Lint
         run: ruff check src tests scripts --ignore E501,F401
       - name: Test
-        run: pytest -q
+        run: python -m pytest -q
