@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.env
+
+# Generated indexes/data (rebuild with scripts)
+data/processed/*
+!data/processed/.gitkeep
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

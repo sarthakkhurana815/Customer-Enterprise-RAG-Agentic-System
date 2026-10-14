@@ -1,0 +1,11 @@
+question,expected_answer,expected_source
+How long do I have to return an unused item?,30 days,POL-001
+How long can a refund take after initiation?,5 to 7 business days,POL-002
+What do I do if tracking has not changed after the delivery estimate?,Contact support after 48 hours,POL-003
+Should I share my one-time code with a support agent?,No,POL-004
+When should a customer issue be escalated?,"Unsupported answer, posted duplicate charge, account recovery failure, security concern, or high urgency",POL-005
+How do I reset my password?,Use Forgot password and follow the registered email reset link,account_faq
+What if the parcel is marked delivered but is missing?,Check nearby locations and contact support for investigation,shipping_faq
+Can I return a final-sale item because I changed my mind?,"No, not under the synthetic demonstration policy",returns_faq
+How do I report a suspicious message?,Use the official security-reporting option,security_faq
+What should I do about a double posted charge?,Contact payment support with order reference and transaction dates,payments_faq
